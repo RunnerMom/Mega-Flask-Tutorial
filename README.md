@@ -1,2 +1,0 @@
-Mega-Flask-Tutorial
-===================
